@@ -1,0 +1,16 @@
+C:\C#\Lab_04\Lab_04\bin\x64\Debug\Lab_04.exe.config
+C:\C#\Lab_04\Lab_04\bin\x64\Debug\Lab_04.exe
+C:\C#\Lab_04\Lab_04\bin\x64\Debug\Lab_04.pdb
+C:\C#\Lab_04\Lab_04\bin\x64\Debug\System.Data.SQLite.dll
+C:\C#\Lab_04\Lab_04\bin\x64\Debug\System.Data.SQLite.xml
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.csproj.AssemblyReference.cache
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.AddUserForm.resources
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.Form1.resources
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.Properties.Resources.resources
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.ViewUsersForm.resources
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.csproj.GenerateResource.cache
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.csproj.CoreCompileInputs.cache
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.csproj.Up2Date
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.exe
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.pdb
+C:\C#\Lab_04\Lab_04\obj\x64\Debug\Lab_04.DeleteUserForm.resources

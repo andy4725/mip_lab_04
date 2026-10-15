@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Lab_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|c:\\c#\\lab_04\\lab_04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|solutionrelative:lab_04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|c:\\c#\\lab_04\\lab_04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|solutionrelative:lab_04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|c:\\c#\\lab_04\\lab_04\\deleteuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|solutionrelative:lab_04\\deleteuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|c:\\c#\\lab_04\\lab_04\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|solutionrelative:lab_04\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|c:\\c#\\lab_04\\lab_04\\deleteuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|solutionrelative:lab_04\\deleteuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|c:\\c#\\lab_04\\lab_04\\viewusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C504370-8013-45E2-949D-E1305B282391}|Lab_04\\Lab_04.csproj|solutionrelative:lab_04\\viewusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\C#\\Lab_04\\Lab_04\\Database.cs",
+              "RelativeDocumentMoniker": "Lab_04\\Database.cs",
+              "ToolTip": "C:\\C#\\Lab_04\\Lab_04\\Database.cs",
+              "RelativeToolTip": "Lab_04\\Database.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAQwKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:08:33.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteUserForm.cs",
+              "DocumentMoniker": "C:\\C#\\Lab_04\\Lab_04\\DeleteUserForm.cs",
+              "RelativeDocumentMoniker": "Lab_04\\DeleteUserForm.cs",
+              "ToolTip": "C:\\C#\\Lab_04\\Lab_04\\DeleteUserForm.cs",
+              "RelativeToolTip": "Lab_04\\DeleteUserForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:04:28.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Lab_04\\Lab_04\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_04\\Form1.cs",
+              "ToolTip": "C:\\C#\\Lab_04\\Lab_04\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab_04\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:05:40.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\C#\\Lab_04\\Lab_04\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_04\\Form1.cs",
+              "ToolTip": "C:\\C#\\Lab_04\\Lab_04\\Form1.cs",
+              "RelativeToolTip": "Lab_04\\Form1.cs",
+              "ViewState": "AgIAAEoAAAAAQmZmZuYYwF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:13:48.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteUserForm.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Lab_04\\Lab_04\\DeleteUserForm.cs",
+              "RelativeDocumentMoniker": "Lab_04\\DeleteUserForm.cs",
+              "ToolTip": "C:\\C#\\Lab_04\\Lab_04\\DeleteUserForm.cs [Design]",
+              "RelativeToolTip": "Lab_04\\DeleteUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:00:15.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewUsersForm.cs",
+              "DocumentMoniker": "C:\\C#\\Lab_04\\Lab_04\\ViewUsersForm.cs",
+              "RelativeDocumentMoniker": "Lab_04\\ViewUsersForm.cs",
+              "ToolTip": "C:\\C#\\Lab_04\\Lab_04\\ViewUsersForm.cs",
+              "RelativeToolTip": "Lab_04\\ViewUsersForm.cs",
+              "ViewState": "AgIAAAMAAADAMzMzMzMVwBMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T10:42:11.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
